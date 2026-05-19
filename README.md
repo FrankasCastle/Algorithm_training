@@ -88,3 +88,9 @@ Given a Roman numeral string, the goal is to convert it into its integer value. 
 Given an array of strings, the goal is to find the longest prefix shared by all strings. The expected output is that common prefix as a string. If there is no common prefix, the output should be an empty string. For example, `["flower","flow","flight"]` returns `"fl"`.
 
 ---
+
+## 15. 3Sum
+
+Given an integer array, the goal is to find all unique triplets where the sum of the three numbers is equal to zero. The expected output is a list of triplets, without duplicate combinations. For example, for `nums = [-1,0,1,2,-1,-4]`, valid output would be `[[-1,-1,2],[-1,0,1]]`.
+
+---
